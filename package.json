@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "module",
+    "type": "git",
     "url": "git+https://github.com/n1k1t1nat/hexlet-js.git"
   },
   "author": "Natalia Nikitina",
@@ -16,6 +16,7 @@
     "url": "https://github.com/n1k1t1nat/hexlet-js/issues"
   },
   "homepage": "https://github.com/n1k1t1nat/hexlet-js#readme",
+  "type": "module",
   "dependencies": {
     "lodash": "^4.17.21"
   }
