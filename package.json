@@ -1,0 +1,19 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "description": "Мой первый проект на Хекслите",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "modul",
+    "url": "git+https://github.com/n1k1t1nat/hexlet-js.git"
+  },
+  "author": "Natalia Nikitina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n1k1t1nat/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/n1k1t1nat/hexlet-js#readme"
+}
